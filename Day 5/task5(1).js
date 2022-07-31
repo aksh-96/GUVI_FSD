@@ -1,4 +1,4 @@
-/*
+
 // Odd number using anonymous function and IIFE
 const odd = function(arr){
     let od = [];
@@ -265,4 +265,3 @@ console.log(ar);
     console.log(ar1);
 })([2,3,4,5,6],2);
 
-*/
